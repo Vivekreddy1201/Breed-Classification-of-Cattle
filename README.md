@@ -132,7 +132,7 @@ print("Predicted Breed:", labels[np.argmax(pred)])
 
 ---
 
-## Project Structure
+## Project Structure during runtime
 
 ```
 ├── main.ipynb                  # Main training notebook
@@ -163,7 +163,7 @@ print("Predicted Breed:", labels[np.argmax(pred)])
 - Add more breeds and larger datasets
 - Implement Grad-CAM visualizations for explainability
 - Deploy as a web app (Gradio / Streamlit)
-- Try Vision Transformer (ViT) or EfficientNetV2 for higher accuracy
+- Try Vision Transformer (ViT) for higher accuracy
 - Add confidence score thresholding for uncertain predictions
 
 ---
