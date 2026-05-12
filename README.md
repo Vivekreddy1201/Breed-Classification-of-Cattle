@@ -167,7 +167,3 @@ print("Predicted Breed:", labels[np.argmax(pred)])
 - Add confidence score thresholding for uncertain predictions
 
 ---
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
