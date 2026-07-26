@@ -6,7 +6,7 @@ A deep learning pipeline to classify **15 Indian cattle and buffalo breeds** fro
 
 ## Overview
 
-This project combines two Kaggle datasets of Indian bovine breeds, applies YOLO-based cropping to isolate animals, and trains a fine-tuned EfficientNetB0 model to identify breeds with ~64.7% validation accuracy.
+This project combines two Kaggle datasets of Indian bovine breeds, applies YOLO-based cropping to isolate animals, and trains a fine-tuned EfficientNetB0 model to identify breeds with ~73.7% validation accuracy.
 
 ---
 
@@ -82,8 +82,8 @@ Raw Datasets (Kaggle)
 
 | Split | Accuracy |
 |---|---|
-| Training | ~73.96% |
-| Validation | ~64.73% |
+| Training | ~79.96% |
+| Validation | ~73.73% |
 
 ---
 
